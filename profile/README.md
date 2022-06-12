@@ -24,6 +24,8 @@ and I needed better support for tabular material:
 * Row and column span
 * Continuation lines
 
+Here are [some samples](https://tableau-tables.github.io/samples/).
+
 For information on using Tableau Tables (and writing plugins for currently
 unsupported Markdown processors), see the [documention
 site](https://tableau-tables.github.io).
